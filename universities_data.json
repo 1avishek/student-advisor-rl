@@ -1,0 +1,1002 @@
+[
+    {
+        "name": "University of Helsinki",
+        "country": "Finland",
+        "field": "Computer Science",
+        "level": "Bachelor",
+        "language": "English",
+        "tuition": 0,
+        "rank": 120,
+        "requirements": "Grades A, IELTS 6.5+"
+    },
+    {
+        "name": "Sweden University of Technology",
+        "country": "Sweden",
+        "field": "Business",
+        "level": "Bachelor",
+        "language": "English",
+        "tuition": 10469,
+        "rank": 204,
+        "requirements": "Grades B, IELTS 6.0+"
+    },
+    {
+        "name": "Canada University of Technology",
+        "country": "Canada",
+        "field": "Business",
+        "level": "PhD",
+        "language": "English",
+        "tuition": 6763,
+        "rank": 14,
+        "requirements": "Grades A, IELTS 7.2+"
+    },
+    {
+        "name": "USA University of Science",
+        "country": "USA",
+        "field": "Engineering",
+        "level": "Bachelor",
+        "language": "English",
+        "tuition": 40548,
+        "rank": 159,
+        "requirements": "Grades B, IELTS 6.0+"
+    },
+    {
+        "name": "Canada University of Science",
+        "country": "Canada",
+        "field": "Computer Science",
+        "level": "PhD",
+        "language": "English",
+        "tuition": 9142,
+        "rank": 68,
+        "requirements": "Grades B+, IELTS 6.8+"
+    },
+    {
+        "name": "Spain University of Arts",
+        "country": "Spain",
+        "field": "Economics",
+        "level": "Master",
+        "language": "Spanish",
+        "tuition": 20602,
+        "rank": 240,
+        "requirements": "Grades B, IELTS 6.0+"
+    },
+    {
+        "name": "Australia University of Business",
+        "country": "Australia",
+        "field": "Medicine",
+        "level": "Bachelor",
+        "language": "English",
+        "tuition": 24360,
+        "rank": 234,
+        "requirements": "Grades B, IELTS 6.0+"
+    },
+    {
+        "name": "Canada University of Arts",
+        "country": "Canada",
+        "field": "Architecture",
+        "level": "PhD",
+        "language": "English",
+        "tuition": 12442,
+        "rank": 46,
+        "requirements": "Grades A, IELTS 6.7+"
+    },
+    {
+        "name": "Japan University of Science",
+        "country": "Japan",
+        "field": "Arts",
+        "level": "Bachelor",
+        "language": "Japanese",
+        "tuition": 5003,
+        "rank": 268,
+        "requirements": "Grades B, IELTS 6.0+"
+    },
+    {
+        "name": "Australia University of Arts",
+        "country": "Australia",
+        "field": "Computer Science",
+        "level": "Bachelor",
+        "language": "English",
+        "tuition": 21119,
+        "rank": 245,
+        "requirements": "Grades B, IELTS 6.0+"
+    },
+    {
+        "name": "Japan University of Science",
+        "country": "Japan",
+        "field": "Architecture",
+        "level": "PhD",
+        "language": "English",
+        "tuition": 12576,
+        "rank": 4,
+        "requirements": "Grades A, IELTS 6.8+"
+    },
+    {
+        "name": "Germany University of Business",
+        "country": "Germany",
+        "field": "Architecture",
+        "level": "Master",
+        "language": "German",
+        "tuition": 511,
+        "rank": 84,
+        "requirements": "Grades B+, IELTS 7.1+"
+    },
+    {
+        "name": "Sweden University of Arts",
+        "country": "Sweden",
+        "field": "Medicine",
+        "level": "Master",
+        "language": "English",
+        "tuition": 12849,
+        "rank": 265,
+        "requirements": "Grades B, IELTS 6.0+"
+    },
+    {
+        "name": "Australia University of Science",
+        "country": "Australia",
+        "field": "Law",
+        "level": "Master",
+        "language": "English",
+        "tuition": 18530,
+        "rank": 97,
+        "requirements": "Grades B+, IELTS 7.3+"
+    },
+    {
+        "name": "Switzerland University of Business",
+        "country": "Switzerland",
+        "field": "Engineering",
+        "level": "Master",
+        "language": "English",
+        "tuition": 19836,
+        "rank": 140,
+        "requirements": "Grades B+, IELTS 6.0+"
+    },
+    {
+        "name": "USA University of Arts",
+        "country": "USA",
+        "field": "Medicine",
+        "level": "Bachelor",
+        "language": "English",
+        "tuition": 16450,
+        "rank": 96,
+        "requirements": "Grades B+, IELTS 7.5+"
+    },
+    {
+        "name": "Canada University of Technology",
+        "country": "Canada",
+        "field": "Law",
+        "level": "PhD",
+        "language": "English",
+        "tuition": 5268,
+        "rank": 120,
+        "requirements": "Grades B+, IELTS 6.0+"
+    },
+    {
+        "name": "UK University of Business",
+        "country": "UK",
+        "field": "Arts",
+        "level": "Master",
+        "language": "English",
+        "tuition": 42541,
+        "rank": 160,
+        "requirements": "Grades B, IELTS 6.0+"
+    },
+    {
+        "name": "Finland University of Business",
+        "country": "Finland",
+        "field": "Business",
+        "level": "Master",
+        "language": "English",
+        "tuition": 164,
+        "rank": 75,
+        "requirements": "Grades B+, IELTS 6.1+"
+    },
+    {
+        "name": "USA University of Technology",
+        "country": "USA",
+        "field": "Business",
+        "level": "Bachelor",
+        "language": "English",
+        "tuition": 31389,
+        "rank": 196,
+        "requirements": "Grades B, IELTS 6.0+"
+    },
+    {
+        "name": "UK University of Technology",
+        "country": "UK",
+        "field": "Engineering",
+        "level": "Master",
+        "language": "English",
+        "tuition": 44029,
+        "rank": 127,
+        "requirements": "Grades B+, IELTS 6.0+"
+    },
+    {
+        "name": "Sweden University of Business",
+        "country": "Sweden",
+        "field": "Medicine",
+        "level": "PhD",
+        "language": "English",
+        "tuition": 11830,
+        "rank": 243,
+        "requirements": "Grades B, IELTS 6.0+"
+    },
+    {
+        "name": "USA University of Technology",
+        "country": "USA",
+        "field": "Medicine",
+        "level": "PhD",
+        "language": "English",
+        "tuition": 17764,
+        "rank": 282,
+        "requirements": "Grades B, IELTS 6.0+"
+    },
+    {
+        "name": "Japan University of Science",
+        "country": "Japan",
+        "field": "Business",
+        "level": "Bachelor",
+        "language": "Japanese",
+        "tuition": 16810,
+        "rank": 27,
+        "requirements": "Grades A, IELTS 7.3+"
+    },
+    {
+        "name": "Germany University of Technology",
+        "country": "Germany",
+        "field": "Architecture",
+        "level": "Master",
+        "language": "English",
+        "tuition": 30,
+        "rank": 86,
+        "requirements": "Grades B+, IELTS 7.2+"
+    },
+    {
+        "name": "Finland University of Science",
+        "country": "Finland",
+        "field": "Arts",
+        "level": "Bachelor",
+        "language": "English",
+        "tuition": 1190,
+        "rank": 244,
+        "requirements": "Grades B, IELTS 6.0+"
+    },
+    {
+        "name": "UK University of Arts",
+        "country": "UK",
+        "field": "Computer Science",
+        "level": "Bachelor",
+        "language": "English",
+        "tuition": 47762,
+        "rank": 47,
+        "requirements": "Grades A, IELTS 7.0+"
+    },
+    {
+        "name": "Switzerland University of Science",
+        "country": "Switzerland",
+        "field": "Arts",
+        "level": "Bachelor",
+        "language": "English",
+        "tuition": 22575,
+        "rank": 55,
+        "requirements": "Grades B+, IELTS 6.2+"
+    },
+    {
+        "name": "Switzerland University of Business",
+        "country": "Switzerland",
+        "field": "Arts",
+        "level": "Master",
+        "language": "English",
+        "tuition": 19375,
+        "rank": 99,
+        "requirements": "Grades B+, IELTS 6.0+"
+    },
+    {
+        "name": "Japan University of Arts",
+        "country": "Japan",
+        "field": "Economics",
+        "level": "Bachelor",
+        "language": "Japanese",
+        "tuition": 20902,
+        "rank": 225,
+        "requirements": "Grades B, IELTS 6.0+"
+    },
+    {
+        "name": "USA University of Business",
+        "country": "USA",
+        "field": "Medicine",
+        "level": "PhD",
+        "language": "English",
+        "tuition": 37784,
+        "rank": 166,
+        "requirements": "Grades B, IELTS 6.0+"
+    },
+    {
+        "name": "Netherlands University of Business",
+        "country": "Netherlands",
+        "field": "Medicine",
+        "level": "PhD",
+        "language": "English",
+        "tuition": 10254,
+        "rank": 36,
+        "requirements": "Grades A, IELTS 6.8+"
+    },
+    {
+        "name": "Australia University of Business",
+        "country": "Australia",
+        "field": "Law",
+        "level": "Master",
+        "language": "English",
+        "tuition": 19879,
+        "rank": 1,
+        "requirements": "Grades A, IELTS 7.2+"
+    },
+    {
+        "name": "Netherlands University of Technology",
+        "country": "Netherlands",
+        "field": "Architecture",
+        "level": "Master",
+        "language": "English",
+        "tuition": 12824,
+        "rank": 165,
+        "requirements": "Grades B, IELTS 6.0+"
+    },
+    {
+        "name": "Switzerland University of Arts",
+        "country": "Switzerland",
+        "field": "Architecture",
+        "level": "Master",
+        "language": "English",
+        "tuition": 23070,
+        "rank": 79,
+        "requirements": "Grades B+, IELTS 6.9+"
+    },
+    {
+        "name": "Sweden University of Science",
+        "country": "Sweden",
+        "field": "Law",
+        "level": "Bachelor",
+        "language": "English",
+        "tuition": 22144,
+        "rank": 35,
+        "requirements": "Grades A, IELTS 6.1+"
+    },
+    {
+        "name": "UK University of Business",
+        "country": "UK",
+        "field": "Economics",
+        "level": "Bachelor",
+        "language": "English",
+        "tuition": 46809,
+        "rank": 99,
+        "requirements": "Grades B+, IELTS 6.1+"
+    },
+    {
+        "name": "Netherlands University of Science",
+        "country": "Netherlands",
+        "field": "Business",
+        "level": "Master",
+        "language": "English",
+        "tuition": 6608,
+        "rank": 188,
+        "requirements": "Grades B, IELTS 6.0+"
+    },
+    {
+        "name": "UK University of Technology",
+        "country": "UK",
+        "field": "Arts",
+        "level": "PhD",
+        "language": "English",
+        "tuition": 47204,
+        "rank": 41,
+        "requirements": "Grades A, IELTS 6.7+"
+    },
+    {
+        "name": "Germany University of Arts",
+        "country": "Germany",
+        "field": "Computer Science",
+        "level": "Master",
+        "language": "English",
+        "tuition": 1626,
+        "rank": 30,
+        "requirements": "Grades A, IELTS 7.2+"
+    },
+    {
+        "name": "Japan University of Technology",
+        "country": "Japan",
+        "field": "Business",
+        "level": "Bachelor",
+        "language": "English",
+        "tuition": 12074,
+        "rank": 266,
+        "requirements": "Grades B, IELTS 6.0+"
+    },
+    {
+        "name": "Australia University of Science",
+        "country": "Australia",
+        "field": "Law",
+        "level": "Master",
+        "language": "English",
+        "tuition": 11208,
+        "rank": 99,
+        "requirements": "Grades B+, IELTS 6.8+"
+    },
+    {
+        "name": "Australia University of Arts",
+        "country": "Australia",
+        "field": "Economics",
+        "level": "Master",
+        "language": "English",
+        "tuition": 8457,
+        "rank": 296,
+        "requirements": "Grades B, IELTS 6.0+"
+    },
+    {
+        "name": "Germany University of Arts",
+        "country": "Germany",
+        "field": "Law",
+        "level": "Bachelor",
+        "language": "English",
+        "tuition": 341,
+        "rank": 93,
+        "requirements": "Grades B+, IELTS 6.8+"
+    },
+    {
+        "name": "Netherlands University of Arts",
+        "country": "Netherlands",
+        "field": "Arts",
+        "level": "Master",
+        "language": "English",
+        "tuition": 16544,
+        "rank": 162,
+        "requirements": "Grades B, IELTS 6.0+"
+    },
+    {
+        "name": "Switzerland University of Science",
+        "country": "Switzerland",
+        "field": "Architecture",
+        "level": "Master",
+        "language": "English",
+        "tuition": 15598,
+        "rank": 124,
+        "requirements": "Grades B+, IELTS 6.0+"
+    },
+    {
+        "name": "Japan University of Business",
+        "country": "Japan",
+        "field": "Computer Science",
+        "level": "Master",
+        "language": "English",
+        "tuition": 19824,
+        "rank": 230,
+        "requirements": "Grades B, IELTS 6.0+"
+    },
+    {
+        "name": "Japan University of Science",
+        "country": "Japan",
+        "field": "Medicine",
+        "level": "PhD",
+        "language": "Japanese",
+        "tuition": 5534,
+        "rank": 266,
+        "requirements": "Grades B, IELTS 6.0+"
+    },
+    {
+        "name": "UK University of Arts",
+        "country": "UK",
+        "field": "Law",
+        "level": "Bachelor",
+        "language": "English",
+        "tuition": 35637,
+        "rank": 12,
+        "requirements": "Grades A, IELTS 7.2+"
+    },
+    {
+        "name": "Canada University of Science",
+        "country": "Canada",
+        "field": "Engineering",
+        "level": "Master",
+        "language": "English",
+        "tuition": 10115,
+        "rank": 71,
+        "requirements": "Grades B+, IELTS 6.4+"
+    },
+    {
+        "name": "Japan University of Science",
+        "country": "Japan",
+        "field": "Business",
+        "level": "Bachelor",
+        "language": "English",
+        "tuition": 23693,
+        "rank": 205,
+        "requirements": "Grades B, IELTS 6.0+"
+    },
+    {
+        "name": "Canada University of Technology",
+        "country": "Canada",
+        "field": "Medicine",
+        "level": "Bachelor",
+        "language": "English",
+        "tuition": 20999,
+        "rank": 296,
+        "requirements": "Grades B, IELTS 6.0+"
+    },
+    {
+        "name": "Netherlands University of Arts",
+        "country": "Netherlands",
+        "field": "Arts",
+        "level": "Master",
+        "language": "English",
+        "tuition": 7571,
+        "rank": 29,
+        "requirements": "Grades A, IELTS 7.4+"
+    },
+    {
+        "name": "Germany University of Science",
+        "country": "Germany",
+        "field": "Computer Science",
+        "level": "Master",
+        "language": "English",
+        "tuition": 1905,
+        "rank": 62,
+        "requirements": "Grades B+, IELTS 7.3+"
+    },
+    {
+        "name": "Switzerland University of Technology",
+        "country": "Switzerland",
+        "field": "Arts",
+        "level": "Master",
+        "language": "English",
+        "tuition": 6773,
+        "rank": 157,
+        "requirements": "Grades B, IELTS 6.0+"
+    },
+    {
+        "name": "USA University of Science",
+        "country": "USA",
+        "field": "Computer Science",
+        "level": "Master",
+        "language": "English",
+        "tuition": 47925,
+        "rank": 114,
+        "requirements": "Grades B+, IELTS 6.0+"
+    },
+    {
+        "name": "Germany University of Technology",
+        "country": "Germany",
+        "field": "Engineering",
+        "level": "Master",
+        "language": "English",
+        "tuition": 1541,
+        "rank": 295,
+        "requirements": "Grades B, IELTS 6.0+"
+    },
+    {
+        "name": "Germany University of Technology",
+        "country": "Germany",
+        "field": "Economics",
+        "level": "Bachelor",
+        "language": "English",
+        "tuition": 270,
+        "rank": 173,
+        "requirements": "Grades B, IELTS 6.0+"
+    },
+    {
+        "name": "Finland University of Technology",
+        "country": "Finland",
+        "field": "Architecture",
+        "level": "PhD",
+        "language": "English",
+        "tuition": 817,
+        "rank": 135,
+        "requirements": "Grades B+, IELTS 6.0+"
+    },
+    {
+        "name": "USA University of Science",
+        "country": "USA",
+        "field": "Economics",
+        "level": "Bachelor",
+        "language": "English",
+        "tuition": 46517,
+        "rank": 287,
+        "requirements": "Grades B, IELTS 6.0+"
+    },
+    {
+        "name": "Netherlands University of Science",
+        "country": "Netherlands",
+        "field": "Engineering",
+        "level": "Bachelor",
+        "language": "English",
+        "tuition": 23388,
+        "rank": 269,
+        "requirements": "Grades B, IELTS 6.0+"
+    },
+    {
+        "name": "Germany University of Technology",
+        "country": "Germany",
+        "field": "Business",
+        "level": "Master",
+        "language": "English",
+        "tuition": 1402,
+        "rank": 295,
+        "requirements": "Grades B, IELTS 6.0+"
+    },
+    {
+        "name": "Germany University of Technology",
+        "country": "Germany",
+        "field": "Medicine",
+        "level": "Master",
+        "language": "German",
+        "tuition": 713,
+        "rank": 98,
+        "requirements": "Grades B+, IELTS 6.5+"
+    },
+    {
+        "name": "Spain University of Science",
+        "country": "Spain",
+        "field": "Engineering",
+        "level": "PhD",
+        "language": "English",
+        "tuition": 19490,
+        "rank": 75,
+        "requirements": "Grades B+, IELTS 6.7+"
+    },
+    {
+        "name": "USA University of Science",
+        "country": "USA",
+        "field": "Law",
+        "level": "PhD",
+        "language": "English",
+        "tuition": 20623,
+        "rank": 58,
+        "requirements": "Grades B+, IELTS 7.1+"
+    },
+    {
+        "name": "Japan University of Business",
+        "country": "Japan",
+        "field": "Computer Science",
+        "level": "Bachelor",
+        "language": "English",
+        "tuition": 16248,
+        "rank": 57,
+        "requirements": "Grades B+, IELTS 6.5+"
+    },
+    {
+        "name": "Australia University of Arts",
+        "country": "Australia",
+        "field": "Economics",
+        "level": "Bachelor",
+        "language": "English",
+        "tuition": 11678,
+        "rank": 280,
+        "requirements": "Grades B, IELTS 6.0+"
+    },
+    {
+        "name": "USA University of Technology",
+        "country": "USA",
+        "field": "Medicine",
+        "level": "PhD",
+        "language": "English",
+        "tuition": 16205,
+        "rank": 193,
+        "requirements": "Grades B, IELTS 6.0+"
+    },
+    {
+        "name": "Japan University of Technology",
+        "country": "Japan",
+        "field": "Business",
+        "level": "Bachelor",
+        "language": "English",
+        "tuition": 13889,
+        "rank": 28,
+        "requirements": "Grades A, IELTS 6.7+"
+    },
+    {
+        "name": "Japan University of Business",
+        "country": "Japan",
+        "field": "Engineering",
+        "level": "PhD",
+        "language": "English",
+        "tuition": 16803,
+        "rank": 56,
+        "requirements": "Grades B+, IELTS 6.0+"
+    },
+    {
+        "name": "Australia University of Business",
+        "country": "Australia",
+        "field": "Business",
+        "level": "PhD",
+        "language": "English",
+        "tuition": 8263,
+        "rank": 162,
+        "requirements": "Grades B, IELTS 6.0+"
+    },
+    {
+        "name": "Australia University of Arts",
+        "country": "Australia",
+        "field": "Arts",
+        "level": "Master",
+        "language": "English",
+        "tuition": 23372,
+        "rank": 12,
+        "requirements": "Grades A, IELTS 6.1+"
+    },
+    {
+        "name": "USA University of Arts",
+        "country": "USA",
+        "field": "Medicine",
+        "level": "Bachelor",
+        "language": "English",
+        "tuition": 37726,
+        "rank": 181,
+        "requirements": "Grades B, IELTS 6.0+"
+    },
+    {
+        "name": "Australia University of Business",
+        "country": "Australia",
+        "field": "Computer Science",
+        "level": "Master",
+        "language": "English",
+        "tuition": 7031,
+        "rank": 132,
+        "requirements": "Grades B+, IELTS 6.0+"
+    },
+    {
+        "name": "Japan University of Business",
+        "country": "Japan",
+        "field": "Law",
+        "level": "Bachelor",
+        "language": "Japanese",
+        "tuition": 9971,
+        "rank": 175,
+        "requirements": "Grades B, IELTS 6.0+"
+    },
+    {
+        "name": "Germany University of Business",
+        "country": "Germany",
+        "field": "Engineering",
+        "level": "PhD",
+        "language": "English",
+        "tuition": 1967,
+        "rank": 117,
+        "requirements": "Grades B+, IELTS 6.0+"
+    },
+    {
+        "name": "Germany University of Business",
+        "country": "Germany",
+        "field": "Law",
+        "level": "Master",
+        "language": "German",
+        "tuition": 1863,
+        "rank": 169,
+        "requirements": "Grades B, IELTS 6.0+"
+    },
+    {
+        "name": "USA University of Science",
+        "country": "USA",
+        "field": "Architecture",
+        "level": "PhD",
+        "language": "English",
+        "tuition": 28258,
+        "rank": 71,
+        "requirements": "Grades B+, IELTS 6.5+"
+    },
+    {
+        "name": "USA University of Technology",
+        "country": "USA",
+        "field": "Business",
+        "level": "PhD",
+        "language": "English",
+        "tuition": 25357,
+        "rank": 163,
+        "requirements": "Grades B, IELTS 6.0+"
+    },
+    {
+        "name": "USA University of Business",
+        "country": "USA",
+        "field": "Architecture",
+        "level": "PhD",
+        "language": "English",
+        "tuition": 16932,
+        "rank": 164,
+        "requirements": "Grades B, IELTS 6.0+"
+    },
+    {
+        "name": "Switzerland University of Technology",
+        "country": "Switzerland",
+        "field": "Law",
+        "level": "PhD",
+        "language": "English",
+        "tuition": 13971,
+        "rank": 78,
+        "requirements": "Grades B+, IELTS 7.2+"
+    },
+    {
+        "name": "Netherlands University of Science",
+        "country": "Netherlands",
+        "field": "Engineering",
+        "level": "PhD",
+        "language": "English",
+        "tuition": 13744,
+        "rank": 291,
+        "requirements": "Grades B, IELTS 6.0+"
+    },
+    {
+        "name": "Finland University of Science",
+        "country": "Finland",
+        "field": "Economics",
+        "level": "Master",
+        "language": "English",
+        "tuition": 162,
+        "rank": 245,
+        "requirements": "Grades B, IELTS 6.0+"
+    },
+    {
+        "name": "Spain University of Business",
+        "country": "Spain",
+        "field": "Law",
+        "level": "Bachelor",
+        "language": "Spanish",
+        "tuition": 17696,
+        "rank": 252,
+        "requirements": "Grades B, IELTS 6.0+"
+    },
+    {
+        "name": "UK University of Business",
+        "country": "UK",
+        "field": "Engineering",
+        "level": "Bachelor",
+        "language": "English",
+        "tuition": 41777,
+        "rank": 8,
+        "requirements": "Grades A, IELTS 7.4+"
+    },
+    {
+        "name": "UK University of Business",
+        "country": "UK",
+        "field": "Economics",
+        "level": "Bachelor",
+        "language": "English",
+        "tuition": 19334,
+        "rank": 91,
+        "requirements": "Grades B+, IELTS 7.4+"
+    },
+    {
+        "name": "Canada University of Technology",
+        "country": "Canada",
+        "field": "Architecture",
+        "level": "Bachelor",
+        "language": "English",
+        "tuition": 19010,
+        "rank": 208,
+        "requirements": "Grades B, IELTS 6.0+"
+    },
+    {
+        "name": "Germany University of Technology",
+        "country": "Germany",
+        "field": "Business",
+        "level": "PhD",
+        "language": "English",
+        "tuition": 1923,
+        "rank": 293,
+        "requirements": "Grades B, IELTS 6.0+"
+    },
+    {
+        "name": "Finland University of Business",
+        "country": "Finland",
+        "field": "Computer Science",
+        "level": "Bachelor",
+        "language": "English",
+        "tuition": 1062,
+        "rank": 276,
+        "requirements": "Grades B, IELTS 6.0+"
+    },
+    {
+        "name": "Australia University of Business",
+        "country": "Australia",
+        "field": "Medicine",
+        "level": "PhD",
+        "language": "English",
+        "tuition": 6615,
+        "rank": 98,
+        "requirements": "Grades B+, IELTS 6.4+"
+    },
+    {
+        "name": "Japan University of Arts",
+        "country": "Japan",
+        "field": "Computer Science",
+        "level": "Master",
+        "language": "English",
+        "tuition": 10455,
+        "rank": 217,
+        "requirements": "Grades B, IELTS 6.0+"
+    },
+    {
+        "name": "USA University of Technology",
+        "country": "USA",
+        "field": "Law",
+        "level": "Master",
+        "language": "English",
+        "tuition": 44602,
+        "rank": 47,
+        "requirements": "Grades A, IELTS 7.1+"
+    },
+    {
+        "name": "Australia University of Arts",
+        "country": "Australia",
+        "field": "Economics",
+        "level": "Bachelor",
+        "language": "English",
+        "tuition": 17880,
+        "rank": 212,
+        "requirements": "Grades B, IELTS 6.0+"
+    },
+    {
+        "name": "Canada University of Technology",
+        "country": "Canada",
+        "field": "Medicine",
+        "level": "PhD",
+        "language": "English",
+        "tuition": 11616,
+        "rank": 233,
+        "requirements": "Grades B, IELTS 6.0+"
+    },
+    {
+        "name": "Switzerland University of Business",
+        "country": "Switzerland",
+        "field": "Arts",
+        "level": "PhD",
+        "language": "English",
+        "tuition": 10373,
+        "rank": 64,
+        "requirements": "Grades B+, IELTS 6.1+"
+    },
+    {
+        "name": "Germany University of Science",
+        "country": "Germany",
+        "field": "Architecture",
+        "level": "PhD",
+        "language": "English",
+        "tuition": 1620,
+        "rank": 262,
+        "requirements": "Grades B, IELTS 6.0+"
+    },
+    {
+        "name": "Finland University of Science",
+        "country": "Finland",
+        "field": "Law",
+        "level": "Bachelor",
+        "language": "English",
+        "tuition": 1868,
+        "rank": 172,
+        "requirements": "Grades B, IELTS 6.0+"
+    },
+    {
+        "name": "USA University of Arts",
+        "country": "USA",
+        "field": "Medicine",
+        "level": "PhD",
+        "language": "English",
+        "tuition": 18362,
+        "rank": 215,
+        "requirements": "Grades B, IELTS 6.0+"
+    },
+    {
+        "name": "Canada University of Science",
+        "country": "Canada",
+        "field": "Computer Science",
+        "level": "Master",
+        "language": "English",
+        "tuition": 10921,
+        "rank": 61,
+        "requirements": "Grades B+, IELTS 7.3+"
+    },
+    {
+        "name": "Japan University of Business",
+        "country": "Japan",
+        "field": "Computer Science",
+        "level": "Bachelor",
+        "language": "English",
+        "tuition": 20028,
+        "rank": 255,
+        "requirements": "Grades B, IELTS 6.0+"
+    }
+]
